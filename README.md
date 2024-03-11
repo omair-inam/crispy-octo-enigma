@@ -1,2 +1,5 @@
 ### Intro
-The start of something great.  Take a look at [Splash](splashlocal.html)
+The start of something great.  
+
+* [SplashLocal Hub](splashlocal.html)
+* [Splash Develop AMER Hub](splashdevelopAMER.html)
